@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there! Welcome👋
 
-<!--
-**juliocesarp20/juliocesarp20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Julio Cesar, a **software engineer** with a focus on **data development** from **Minas Gerais, Brazil**.
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌿 Learning:
+- Preparing for a **C2 level English certification**
+- Advancing to **advanced French proficiency**
+
+### 🚀 Current Interests:
+- Expanding knowledge in **Kafka**, **Airflow**, **Spark**, **PyTorch**, and **cloud data tools**.
+
+Thanks for visiting my profile! Feel free to explore my repositories and check out my projects.
