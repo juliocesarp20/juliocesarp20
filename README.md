@@ -19,8 +19,3 @@ Welcome to my GitHub profile! I'm Júlio César, a **software engineer** special
 - Advancing to **intermediary French proficiency**
 
 Thanks for visiting my profile! Feel free to explore my repositories and check out my projects.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocesarp20&layout=compact&theme=radical" alt="Top Languages">
-</div>
-
