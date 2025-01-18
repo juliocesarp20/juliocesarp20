@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there. Welcome! 👋
 
 Welcome to my GitHub profile! I'm Júlio César, a **software engineer** specializing in **data development**, originally from **Minas Gerais, Brazil**. I hold a degree in **Information Systems** from **UFMG**, currently specializing in Data Engineering at **Data Science Academy**.
 
