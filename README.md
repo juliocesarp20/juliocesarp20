@@ -11,10 +11,10 @@ Welcome to my GitHub profile! I'm Júlio César, a **software engineer** special
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🌿 Learning:
+###  Learning:
 - Expanding knowledge in **FastAPI**, **Kafka**, **Airflow**, **Spark**, **PyTorch**, and **cloud data tools**.
 
-### 🚀 Current Interests:
+###  Current Interests:
 - Preparing for a **C2 level English certification**
 - Advancing to **intermediary French proficiency**
 
