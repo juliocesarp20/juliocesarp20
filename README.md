@@ -15,7 +15,6 @@ Welcome to my GitHub profile! I'm Júlio César, a **software engineer** special
 - Expanding knowledge in **FastAPI**, **Kafka**, **Airflow**, **Spark**, **PyTorch**, and **cloud data tools**.
 
 ###  Current Interests:
-- Preparing for a **C2 level English certification**
-- Advancing to **intermediary French proficiency**
+- Learning French and working towards a advanced English certification
 
 Thanks for visiting my profile! Feel free to explore my repositories and check out my projects.
