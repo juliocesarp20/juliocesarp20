@@ -16,5 +16,6 @@ Welcome to my GitHub profile! I'm Júlio César, a **software engineer** special
 
 ###  Current Interests:
 - Learning French and working towards a advanced English certification
+- Studying for AWS Associate certification
 
 Thanks for visiting my profile! Feel free to explore my repositories and check out my projects.
