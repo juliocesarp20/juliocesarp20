@@ -1,6 +1,6 @@
 ## Hi there. Welcome! 👋
 
-Welcome to my GitHub profile! I'm Júlio César, a **software engineer** specializing in **data development**, originally from **Minas Gerais, Brazil**. I hold a degree in **Information Systems** from **UFMG**, currently specializing in **Data Engineering** at **Data Science Academy**.
+Welcome to my GitHub profile! I'm Júlio César, a **Software Engineer** originally from **Minas Gerais, Brazil**. I hold a degree in **Information Systems**.
 
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
