@@ -19,3 +19,6 @@ Welcome to my GitHub profile! I'm Júlio César, a **Software Engineer** origina
 - Studying for AWS Solutions Architect
 
 Thanks for visiting my profile! Feel free to explore my repositories and check out my projects.
+
+### Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juliocesarpferreira)
