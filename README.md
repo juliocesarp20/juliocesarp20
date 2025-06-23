@@ -1,6 +1,6 @@
 ## Hi there. Welcome! 👋
 
-Welcome to my GitHub profile! I'm Júlio César, a **Software Engineer** originally from **Minas Gerais, Brazil**. I hold a degree in **Information Systems**.
+Welcome to my GitHub profile! I'm Júlio César, a **Software Engineer** originally from **Minas Gerais, Brazil**. I hold a degree in **Information Systems** and am currently specializing in Data Engineering at Data Science Academy.
 
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -16,6 +16,6 @@ Welcome to my GitHub profile! I'm Júlio César, a **Software Engineer** origina
 
 ###  Current Interests:
 - Learning French and working towards a advanced English certification
-- Studying for AWS Associate certification
+- Studying for AWS Solutions Architect
 
 Thanks for visiting my profile! Feel free to explore my repositories and check out my projects.
